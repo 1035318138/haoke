@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itcast-haoke-manage-api-server" />
+        <module name="itcast-haoke-manage-dubbo-server-generator" />
+        <module name="itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface" />
+        <module name="itcast-haoke-manage-dubbo-server-house-resources-dubbo-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
